@@ -14,8 +14,8 @@
 
    4. step
       - In server.cfg must started:
-     ensure ox_lib
-     ensure es_extended
-     ensure ox_lib
-     ensure ox_target
-     ensure ox_inventory    
+   -  ensure ox_lib
+   -  ensure es_extended
+   -  ensure ox_lib
+   -  ensure ox_target
+   -  ensure ox_inventory    
